@@ -25,4 +25,4 @@ requires:
 resources:
   homepage: https://github.com/yak1ex/App-DBI-Loader
   repository: https://github.com/yak1ex/App-DBI-Loader.git
-version: v0.0.1
+version: v0.0.2

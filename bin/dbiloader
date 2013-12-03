@@ -5,7 +5,7 @@ use warnings;
 
 # PODNAME: dbiloader
 # ABSTRACT: A tiny script to load CSV/TSV contents into a database table via DBI
-our $VERSION = 'v0.0.1'; # VERSION
+our $VERSION = 'v0.0.2'; # VERSION
 
 use App::DBI::Loader;
 
@@ -21,7 +21,7 @@ dbiloader - A tiny script to load CSV/TSV contents into a database table via DBI
 
 =head1 VERSION
 
-version v0.0.1
+version v0.0.2
 
 =head1 SYNOPSIS
 

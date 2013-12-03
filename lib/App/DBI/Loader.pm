@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # ABSTRACT: A tiny script to load CSV/TSV contents into a database table via DBI
-our $VERSION = 'v0.0.1'; # VERSION
+our $VERSION = 'v0.0.2'; # VERSION
 
 use Getopt::Std;
 use Getopt::Config::FromPod;
@@ -74,7 +74,7 @@ App::DBI::Loader - A tiny script to load CSV/TSV contents into a database table 
 
 =head1 VERSION
 
-version v0.0.1
+version v0.0.2
 
 =head1 SYNOPSIS
 
